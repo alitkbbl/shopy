@@ -1,6 +1,6 @@
 # E-commerce Website Project
 
-This project is an e-commerce website developed using Next.js and TypeScript. The development started 3 days ago.
+This project is an e-commerce website developed using Next.js and TypeScript.
 
 ## Table of Contents
 
